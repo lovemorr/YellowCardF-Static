@@ -1,6 +1,6 @@
 // API Configuration
-// Update this after deploying the admin repo
-const API_BASE_URL = 'https://YOUR-ADMIN-APP.vercel.app';
+// Production: Vercel API
+const API_BASE_URL = 'https://yellow-card-f-admin.vercel.app';
 
 // For local development, uncomment this line:
 // const API_BASE_URL = 'http://localhost:3000';
